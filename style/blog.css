@@ -1,0 +1,9 @@
+div{
+    background-color: bisque;
+    margin: 10px;
+    border: 6px solid crimson;
+    box-shadow: 7px 7px 7px plum;
+    padding: 10px;
+    border-radius: 15px;
+    width: 70%;
+}
